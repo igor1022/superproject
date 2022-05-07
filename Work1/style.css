@@ -1,0 +1,18 @@
+p {
+padding-left: 600px;
+}
+
+li {
+  padding-top: 20px;
+}
+
+.string {
+  font-weight: bold;
+}
+/*div {display:inline-block;}*/
+
+img {
+  padding-left: 300px;
+  height: 300px;
+  width: 250px;
+}
